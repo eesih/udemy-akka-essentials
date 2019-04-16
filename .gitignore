@@ -1,0 +1,5 @@
+.idea/*
+out/
+rock-the-jvm-scala-advanced.iml
+target/*
+project/*
