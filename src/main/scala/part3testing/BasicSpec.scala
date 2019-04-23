@@ -1,4 +1,4 @@
-package part2actors.part3testing
+package part3testing
 
 import akka.actor.{Actor, ActorSystem, Props}
 import akka.testkit.{ImplicitSender, TestKit}
